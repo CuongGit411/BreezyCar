@@ -1,0 +1,78 @@
+.title{
+    font-size: medium;
+    font-size: 30px;
+    background-color: gainsboro;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+}
+
+.logout-button{
+    text-align: right;
+    padding-right: 100px;
+}
+.tomtat{
+    width:400px;
+}
+.option{
+ display: flex;
+ padding-left: 270px;
+ background-color: gainsboro;
+ list-style-type: none;
+ padding-bottom: 20px;
+ padding-top: 40px;
+ height: 50px;
+}
+
+.cac-option{
+    margin-left: 30px;
+    background-color: white;
+    margin-left: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+body{
+    background-color:whitesmoke;
+}
+
+.title > div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.logout-button{
+    background-color: gainsboro;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.logout-button > a{
+    margin-left: 10px
+}
+
+table {
+    border: 1px solid #000000;
+  }
+
+table {
+    border-collapse: collapse;
+  }
+  
+td, th {
+    border: 2px solid #000000;
+  }
+
+.titledanhmuc{
+    font-weight: 800;
+    font-size: 20px;
+    margin-left: 50px;
+}
